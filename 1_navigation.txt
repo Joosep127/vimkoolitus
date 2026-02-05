@@ -1,0 +1,106 @@
+﻿use command x to delete characters
+and command i to enter insertion mode and write text
+
+
+1. hjkl 
+
+	In this exercise we’re going to learn about how to insert text in vim and navigate through text in the most basic ways.
+	
+	NB! Avoid using arrow keys, It goes against Mantra 1
+	
+	This exercise commands
+	x   	   -  delete the character after the cursor
+	
+	i	   -  Enter Insert mode
+	
+	esc	   -  exit Insert mode
+	
+	h, j, k, l -  left, down, up, right
+	
+	1.1
+	
+		Complete the maze using only hjkl
+		
+		 S
+		# #####
+		# #   #
+		# # # #
+		#   # #
+		##### #
+		#     #
+		# #####
+		 E
+		
+	1.2
+
+		Correct this line (command x)
+		----->  Theee biggg trreee hass ppretty leavves
+
+		Goal
+		----->  The big tree has pretty leaves
+	
+	1.3
+	
+		Correct this line
+		----->  The dog bark 
+		
+		Goal
+		----->  The dog is barking
+
+
+
+
+2. words and WORDS
+
+	This exercise is about navigating words and WORDS and teaching you what they terms mean and what are the commands
+
+	a word is any words that contain only the alphabet, digits and underscores anything else and even without a space it becomes a new word
+
+	a WORD is a word that contains any symbol, until the next space
+
+
+	w = the start of next word
+	b = the start of the previous word
+	e = the end of the next word
+
+	Use SHIFT to make these commands work for WORDS instead of words (W, B, E)
+
+	
+	We're also going to be using another editing command 'r'. It replaces a character with the one you press next
+
+	r + {char} = replace the character under the cursor.
+
+
+	2.1
+
+		replace all beginnings of words with capitals
+		----->  the big brown dog6 is often pro_trayed as-an-enemy of the bright*red fox
+
+		Goal
+		----->  The Big Brown Dog6 Is Often Pro_trayed As-an-enemy Of The Bright*Red Fox
+
+
+
+3. line
+
+  0 = To the beginning of the line
+  $ = To the end of the line
+
+  3.1
+
+    Delete all symbols on the beginnings and ends of the lines
+
+@I dislike symbols in side of my strings/
+(That's why I avoid pressing most buttons on my keyboard?
+.Dots question marks and anything inbetween are all evil in my eyes+
+
+    Goal:
+
+I dislike symbols in side of my strings
+That's why I avoid pressing most buttons on my keyboard
+Dots question marks and anything inbetween are all evil in my eyes
+
+
+4. brief mention of file movement
+
+5. character search
