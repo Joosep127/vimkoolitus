@@ -103,4 +103,29 @@ Dots question marks and anything inbetween are all evil in my eyes
 
 4. brief mention of file movement
 
+  gg = Go to the start of the file
+  G = Go to the end of the file
+  / = search for a regex statement.
+
+  example: the command:
+                  /3. 
+          would take you to the third exercise "line" 
+          if a regex function find multiple phrases you can cycle with the buttons n and N
+
+  4.1
+    Play around with the commands in this text file no specific exercise
+
+
 5. character search
+
+  for scenerios where the normal regex function isn't enough we have two commands for char searching
+  
+  f + (char) = find the next instances of a character
+  t + (char) = find the previous instances of a character
+  , and ; = cycle between the found chars
+  
+  5.1
+
+    Replace all instances of x with the t
+    
+    Oux of all xhe men on earxh, I personally like Keanu Reeves xhe besx. He's second only xo my faxher.. And acxually mosx people I know. Sxill I like him.
