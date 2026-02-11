@@ -141,8 +141,8 @@
 		Indent the inner lines so it looks like a block
 
 		if (condition)
-		do_something()
-		do_something_else()
+      do_something()
+      do_something_else()
 		end
 
 		Goal

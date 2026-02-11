@@ -1,30 +1,28 @@
-1 insert types
-
-  i,a,o,c 
-
-2 Visual types
-
-  v. C-v, S-v
-
-2.1 Visual a and i
-
-  va"
-
-3 replace types 
-
-  r
-
-4 command-line
-  :
-
-1.5 / 
+1. a and i as specials
 
 
+  1.1
+    Delete the insides of the qoutes ci"
 
-Special buttons:
+    Ex
+    ----->  "This is a lot of words to fit inside of a string omfg aaaaaaaaaa"
+    Goal
+    ----->  "I am fine"
+
+  1.2
+    Now delete the qoutes as well
+
+    Ex
+    ----->  (This is a lot of words to fit inside of a string omfg aaaaaaaaaa)
+                                        ^ (Put your cursor here)
+    Goal
+    ----->  
 
 2. repeats 1..9
 
-3. i & a
-
-
+  delete 4 following words
+  Ex
+  ----->  The white car is a wonderful person is you
+          ^ (Put your cursor here)
+  Goal
+  ----->  a wonderful person is you
