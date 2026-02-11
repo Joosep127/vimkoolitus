@@ -1,9 +1,153 @@
-1. x
+1. delete (d)
 
-2. d
+	In this exercise we’re going to learn how to delete text using motions.
+	Remember: d is an operator, it does nothing on its own.
+	It always needs a motion.
 
-3. c
+	This exercise commands
 
-4. y & p
+	d + where   - delete text covered by the motion
 
-5. < & >
+	dw   - delete word
+	dd   - delete entire line
+	d$   - delete to end of line - Alternative is command D
+
+
+	1.1
+
+		Delete the extra words using dw, db or de
+
+		----->  The the cat sat on on the mat mat
+
+		Goal
+		----->  The cat sat on the mat
+
+
+	1.2
+
+		Delete everything after the cursor (d$)
+
+		----->  Vim is great but sometimes confusing and scary
+			                 ^
+
+		Goal
+		----->  Vim is great
+
+
+	1.3
+
+		Delete the correct lines (dd)
+
+		Please change the line I don't like. ):
+
+		I don't like this line
+
+
+
+2. change (c)
+
+	The change command works like delete,
+	but puts you straight into Insert mode.
+
+	c = delete + insert
+
+	cw   - change word
+	ce   - change to end of word
+	cc   - change entire line
+	c$   - change to end of line - Alternative is C
+
+
+	2.1
+
+		Fix the typos using cw or cb to correct partially correct words
+
+		----->  I asDlly enjoy prograKsafd in vim. EspeciMMMM because I like kkkkking people struggPPP
+
+		Goal
+		----->  I really enjoy programming in vim. Especially because I lkie seeing people struggle
+
+	2.2
+
+		Change everything after the cursor (c$)
+
+		----->  Learning vim is hard but
+			                    ^
+
+		Goal
+		----->  Learning vim is fun
+
+
+
+3. yank and paste (y & p)
+
+	Yanking copies text.
+	Pasting puts it after the cursor.
+
+	y + motion   - yank text
+	yy           - yank line
+	p            - paste after cursor
+	P            - paste before cursor
+
+
+	3.1
+
+		Duplicate the line using yy and p
+
+		----->  Vim rewards patience
+
+
+	3.2
+
+		Copy the word "efficient" and paste it twice
+
+		----->  Vim is efficient text editing
+
+		Goal
+		----->  Vim is efficient efficient efficient text editing
+
+
+	3.3
+
+    NB: using the d delete command, will save it as if you copied it.
+		Reorder the lines using dd and p
+
+		----->  
+		Third
+		First
+		Second
+
+		Goal
+		----->  
+		First
+		Second
+		Third
+
+
+
+4. indenting (< & >)
+
+	Indenting is very useful for code and structured text.
+
+	>  - indent right
+	<  - indent left
+  >> - indent line
+	<< - unindent line
+
+	These also work with motions.
+
+
+	4.1
+
+		Indent the inner lines so it looks like a block
+
+		if (condition)
+		do_something()
+		do_something_else()
+		end
+
+		Goal
+
+		if (condition)
+			do_something()
+			do_something_else()
+		end
