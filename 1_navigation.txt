@@ -52,6 +52,19 @@ and command i to enter insertion mode and write text
 
 2. words and WORDS
 
+
+	2.0.5 Live Exercise
+		1.
+			THIS-IS-ALL-JUST-one-WORD-cant-you-belive-it yayyyy.
+			
+			THIS--ALL--one yayyyy.
+
+		2.
+			Hello, world! This_is_a_test. Another line, with several_words-and SYMBOLS.
+			Tabs	and spaces separate	words.  
+			End-of-line punctuation! Should we try: more tests?
+		
+
 	This exercise is about navigating words and WORDS and teaching you what they terms mean and what are the commands
 
 	a word is any words that contain only the alphabet, digits and underscores anything else and even without a space it becomes a new word
