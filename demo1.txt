@@ -1,0 +1,35 @@
+
+
+want to make changes to user?
+
+
+const user = { (name: "John", age: 25) };
+
+
+
+finding caralarm, and counting word instances
+
+This long text contains many words
+but if I need to find specific words
+like the instance of word. It's very
+easy to find but in the case of a special
+word caralarm it might be hard to find in 
+a sea of text
+
+
+
+# I want this comment repeated exactly 10 more time
+
+
+# Line 1
+
+
+# I don't like bananas
+
+apple banana orange
+apple banana orange
+apple banana orange
+
+
+
+
