@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Võlur Joosep tuleb ja õpetab Lapikutel™ VIM'i. Vim'i koolitus 2026.04.1 Esimene aprill toimub võrratu võimalus õppida oma prorgramme õigesti kirjutama hakata. 
+
+
+
+Lapikud VIM Workshop takes place this Wednesday, 1. April at 18:00-19:30 at Lapikute kontor.
+
+Wizard Joosep wants to know if you're interested in learning the best thing since buttered popcorn. We'll be looking at what actually is VIM seeing what it can do and learning the basic of using it, while also being mesmerized by seeing the pinicle of it's usage. Topics covered: Basic movement, editing and searching through text, how to exit vim, configuring vim  and a bonus topic if students want to know how to do something specific in vim.
+
+Participating will get the best student a prize. 
+
+The workshop is free. Please register to let The head Wizard know how many people to expect in person.
+
+Joining in will be technically possible
+
+
+If you are interested to know more about the Rust programming language, then this is your opportunity to come and learn. We’ll be going over what Rust even is and where it is used and what for. Then we'll jump into live coding where you are going to see Rust’s unique syntax, the Trait system, structs & functions, enums and error handling.
+
+The workshop will be easier to follow along with when you have previous programming experience. Be it In Python, Java, C or C++.
+
+The workshop is free. Your task is to register and show up.
+

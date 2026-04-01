@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John",
+    "age": 28,
+    "email": "john1@example.com",
+    "occupation": "Engineer"
+  },
+  {
+    "name": "John",
+    "age": 35,
+    "email": "john2@example.com",
+    "occupation": "Designer"
+  },
+  {
+    "name": "John",
+    "age": 42,
+    "email": "john3@example.com",
+    "occupation": "Teacher"
+  },
+  {
+    "name": "John",
+    "age": 30,
+    "email": "john4@example.com",
+    "occupation": "Doctor"
+  },
+  {
+    "name": "John",
+    "age": 25,
+    "email": "john5@example.com",
+    "occupation": "Developer"
+  }
+]

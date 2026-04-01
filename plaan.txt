@@ -1,0 +1,26 @@
+Detailed plan for myself.
+
+
+Tutvustus, enese ja vimi #Peeru naljad ei sobi täiskasvanutele
+
+	Vim on tekstiredaktor
+
+	Mis asi on tekstiredaktor
+	see on editor (:
+
+
+	Vimmi põhigoal on musklimälu loomine igapäevasteks tegevusteks, et oleks mega kiire kirjutada
+
+
+Mantras
+	
+	1. Võimalikult vähese käeliigutustega. Käsi ei liiguks nooltele, delete nuppule, hiirele. Oleks nii palju kui võimalik qwerty tähtede juures.
+
+
+	2. Võimalikult väheste nuppude vajutustega. Et Vimmist oleks kasu rohkem kui igapäevasest tekstiredaktorist peaks hakkama kasutama vimi lühendeid. 
+		Vimis on teksti muutmine rohkem nagu lausete koostamine. "Kustuta järgmised 10 sõna ära", "Nendel ridadel tee seda" ja "Soovin muuta kõike, mis on sulgude sees"
+		Nii moodi kirjutamine ainult paari nupu vajutusega on kiirem ja lõpudelõpuks suurem osa ajast vajab vähem vaeva kui proovida hiirega jännata või korduvalt delete nuppu vajutada.
+
+Goals
+
+	The main point of this workshop is to teach you all the basics of using vim for daily activies and to give you the tools to start learning to use it more and more effectively.
