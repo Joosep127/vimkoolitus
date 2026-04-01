@@ -7,6 +7,10 @@ const user = { (name: "John", age: 25) };
 
 
 
+def function(Frist_element: int -> 69, Second_element: str -> "Default") -> bool:
+
+
+
 finding caralarm, and counting word instances
 
 This long text contains many words
